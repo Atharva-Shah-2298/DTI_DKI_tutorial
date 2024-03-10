@@ -17,7 +17,7 @@ Basic principles of diffusion imaging
 Overview of DTI and DKI
 2. Preprocessing Steps
 Data loading and visualization
-Preprocessing techniques, including denoising and correction for motion and eddy-current distortions
+Preprocessing techniques, including denoising and masking
 3. DTI Analysis
 Fitting the diffusion tensor model
 Calculating DTI metrics (e.g., Fractional Anisotropy, Mean Diffusivity)
