@@ -4,9 +4,9 @@ Welcome to this tutorial on Diffusion Tensor Imaging (DTI) and Diffusion Kurtosi
 Getting Started
 Before diving into the tutorial, ensure you have DIPY installed in your Python environment. If you haven't installed DIPY yet, you can do so by running:
 
-bash
-Copy code
-pip install dipy
+
+`pip install dipy`
+
 Additionally, this tutorial assumes you have a basic understanding of Python and familiarity with neuroimaging data. If you're new to diffusion MRI or DIPY, consider reviewing the DIPY documentation and introductory materials on diffusion imaging principles.
 
 Tutorial Overview
