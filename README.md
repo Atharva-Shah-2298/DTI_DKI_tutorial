@@ -7,6 +7,10 @@ Before diving into the tutorial, ensure you have DIPY installed in your Python e
 
 `pip install dipy`
 
+if you wish to visualize the results, you would also need fury which can be installed by running:
+
+`pip install fury`
+
 Additionally, this tutorial assumes you have a basic understanding of Python and familiarity with neuroimaging data. If you're new to diffusion MRI or DIPY, consider reviewing the DIPY documentation and introductory materials on diffusion imaging principles.
 
 Tutorial Overview
