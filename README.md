@@ -2,7 +2,7 @@
 
 Welcome to this tutorial on Diffusion Tensor Imaging (DTI) and Diffusion Kurtosis Imaging (DKI) using DIPY (Diffusion Imaging in Python). This guide is designed to help you understand and apply DTI and DKI methodologies to your diffusion MRI data using DIPY, a comprehensive library dedicated to the analysis of diffusion imaging data. By following this tutorial, you'll be able to explore your data, experiment with various parameters, and gain insights into the underlying microstructural properties of the tissue.
 
-Getting Started
+`Getting Started`
 Before diving into the tutorial, ensure you have DIPY installed in your Python environment. If you haven't installed DIPY yet, you can do so by running:
 
 
@@ -14,7 +14,7 @@ if you wish to visualize the results, you would also need fury which can be inst
 
 Additionally, this tutorial assumes you have a basic understanding of Python and familiarity with neuroimaging data. If you're new to diffusion MRI or DIPY, consider reviewing the DIPY documentation and introductory materials on diffusion imaging principles.
 
-Tutorial Overview
+`Tutorial Overview`
 This tutorial is divided into several sections, each focusing on different aspects of DTI and DKI analysis:
 
 1. Introduction to Diffusion Imaging
