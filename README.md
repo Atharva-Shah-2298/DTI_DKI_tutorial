@@ -1,4 +1,4 @@
-DTI and DKI Tutorial with DIPY
+**DTI and DKI Tutorial with DIPY**
 Welcome to this tutorial on Diffusion Tensor Imaging (DTI) and Diffusion Kurtosis Imaging (DKI) using DIPY (Diffusion Imaging in Python). This guide is designed to help you understand and apply DTI and DKI methodologies to your diffusion MRI data using DIPY, a comprehensive library dedicated to the analysis of diffusion imaging data. By following this tutorial, you'll be able to explore your data, experiment with various parameters, and gain insights into the underlying microstructural properties of the tissue.
 
 Getting Started
